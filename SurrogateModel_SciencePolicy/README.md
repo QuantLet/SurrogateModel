@@ -11,7 +11,7 @@ Published in: Foundation of Modern Statistics‘
 
 Description: Implementation of newly developed surrogate modelling technique (SVD+RadialBasisFunctions) on a real life application of science policy. A fully developed code with OOP that can be easily changed for different combinations of sampling functions, spline functions, variable values and can be used for any other type of dynamical system.
 
-Keywords:  Proper Orthogonal Decomposition, SVD, Radial Basis Functions, Optimization, Surrogate Models, PDEs
+Keywords: Proper Orthogonal Decomposition, SVD, Radial Basis Functions, Optimization, Surrogate Models, PDEs
 
 See also: 
 
